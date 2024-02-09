@@ -33,7 +33,7 @@ En esta práctica se ha desarrollado en Python un módulo para la implementació
 <img width="249" alt="image" src="https://github.com/202006359/Practica-1-UDP/assets/113789409/8347b6ac-c6fb-42b4-8620-f8b7634689c4">
 
   
-5. Una vez inicializado, dirigite a la proyecto Practica-1-UDP y picha en la carpeta "Entregable". Esto abrirá una ventana del navegador web con el panel de control de Jupyter Notebook. Desde aquí, abre el archivo "servidor.ipynb" y "cliente.ipynb".
+5. Esto abrirá una ventana del navegador web con el panel de control de Jupyter Notebook. Desde aquí, dirigite a la proyecto Practica-1-UDP y picha en la carpeta "Entregable". A continuación, abre el archivo "servidor.ipynb" y "cliente.ipynb".
 
 6. Ejecuta el código del servidor en Jupyter Notebook ejecutando todas las celdas de código en "servidor.ipynb".
 

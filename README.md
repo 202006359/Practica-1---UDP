@@ -1,6 +1,6 @@
 # Práctica 1 - UDP
 ## Introducción
-En esta práctica se ha desarrollado en Python un módulo para la implementación de un juego online mediante mensajes UDP. Este juego consiste en un sistema de preguntas y respuestas (estilo trivial). Para la obtención de las preguntas y respuestas, se empleará la API https://the-trivia-api.com/. 
+En esta práctica se ha desarrollado en Python un módulo para la implementación de un juego online mediante mensajes UDP. Este juego consiste en un sistema de preguntas y respuestas (estilo trivial). Para la obtención de las preguntas y respuestas, se empleará la API https://the-trivia-api.com/. Todo el código del juego se encuentra dentro de la carpeta **Entregable**
 ## Explicación del código
 1. **Comunicaciones con la API (API.py)**
     - `get_pregunta_aleatoria()`: Esta función se encarga de obtener una pregunta aleatoria de la API externa. Primero elige aleatoriamente una pregunta del diccionario de preguntas disponibles, luego extrae la información relacionada a esa pregunta (posibles respuestas y respuesta correcta), y finalmente devuelve un diccionario con la pregunta, las posibles respuestas y la respuesta correcta.

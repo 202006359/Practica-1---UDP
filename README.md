@@ -29,29 +29,13 @@ En esta práctica se ha desarrollado en Python un módulo para la implementació
     git clone https://github.com/202006359/Practica-1-UDP.git
     ```
 
-3. Accede al directorio "Entregable" con el siguiente comando:
-
-    ```
-    cd Practica-1-UDP/Entregable
-    ```
-
-4. Asegúrate de tener Jupyter Notebook instalado en tu sistema. Si no lo tienes instalado, puedes instalarlo utilizando pip:
-
-    ```
-    pip install notebook
-    ```
-
-5. Abre el servidor Jupyter Notebook en la carpeta "Entregable" con el siguiente comando:
-
-    ```
-    jupyter notebook
-    ```
+3. Abre el servidor Jupyter Notebook dentro de la carpeta "Entregable".
 
     Esto abrirá una ventana del navegador web con el panel de control de Jupyter Notebook. Desde aquí, abre el archivo "servidor.ipynb" y "cliente.ipynb".
 
-6. Ejecuta el código del servidor en Jupyter Notebook ejecutando todas las celdas de código en "servidor.ipynb".
+4. Ejecuta el código del servidor en Jupyter Notebook ejecutando todas las celdas de código en "servidor.ipynb".
 
-9. Ejecuta el código del cliente en Jupyter Notebook ejecutando todas las celdas de código en "cliente.ipynb".
+5. Ejecuta el código del cliente en Jupyter Notebook ejecutando todas las celdas de código en "cliente.ipynb".
 
 Una vez que hayas ejecutado ambos códigos, podrás jugar al juego de preguntas y respuestas en el cliente y recibir las preguntas y resultados del servidor. 
 
